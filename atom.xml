@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>吃鱼吐刺</title>
+  
+  
+  <link href="https://chiyutuci.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://chiyutuci.xyz/"/>
+  <updated>2022-01-08T06:21:06.691Z</updated>
+  <id>https://chiyutuci.xyz/</id>
+  
+  <author>
+    <name>CYTC</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://chiyutuci.xyz/2022/01/08/test/"/>
+    <id>https://chiyutuci.xyz/2022/01/08/test/</id>
+    <published>2022-01-08T06:21:06.000Z</published>
+    <updated>2022-01-08T06:21:06.691Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
