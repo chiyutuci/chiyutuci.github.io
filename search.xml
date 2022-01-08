@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
+    <title>C++学习与补漏</title>
     <url>/2022/01/08/test/</url>
-    <content><![CDATA[<p>ghijigegeg</p>
-]]></content>
+    <content><![CDATA[<h1 id="C-基础"><a href="#C-基础" class="headerlink" title="C++ 基础"></a>C++ 基础</h1><p>浙江大学翁恺老师 《面向对象设计C++》  <a href="https://www.bilibili.com/video/BV1yQ4y1A7ts?p=1">https://www.bilibili.com/video/BV1yQ4y1A7ts?p=1</a></p>
+<h1 id="查缺补漏"><a href="#查缺补漏" class="headerlink" title="查缺补漏"></a>查缺补漏</h1>]]></content>
       <categories>
-        <category>UE4</category>
+        <category>C++</category>
       </categories>
       <tags>
-        <tag>UE4</tag>
+        <tag>C++</tag>
+        <tag>Program</tag>
       </tags>
   </entry>
 </search>
