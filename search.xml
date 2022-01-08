@@ -1,32 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>test</title>
-      <link href="/2022/01/08/test/"/>
-      <url>/2022/01/08/test/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
+<search>
+  <entry>
+    <title>test</title>
+    <url>/2022/01/08/test/</url>
+    <content><![CDATA[]]></content>
       <categories>
-          
-          <category> UE4 </category>
-          
+        <category>UE4</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> UE4 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>UE4</tag>
+      </tags>
+  </entry>
 </search>
