@@ -6,7 +6,7 @@
   <link href="https://chiyutuci.xyz/atom.xml" rel="self"/>
   
   <link href="https://chiyutuci.xyz/"/>
-  <updated>2022-01-08T12:14:10.999Z</updated>
+  <updated>2022-01-08T15:42:45.822Z</updated>
   <id>https://chiyutuci.xyz/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Win32编程学习</title>
+    <link href="https://chiyutuci.xyz/2022/01/08/Win32Learn/"/>
+    <id>https://chiyutuci.xyz/2022/01/08/Win32Learn/</id>
+    <published>2022-01-08T15:19:01.000Z</published>
+    <updated>2022-01-08T15:42:45.822Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Windows-c-cpp文件编译过程&quot;&gt;&lt;a href=&quot;#Windows-c-cpp文件编译过程&quot; class=&quot;headerlink&quot; title=&quot;Windows c/cpp文件编译过程&quot;&gt;&lt;/a&gt;Windows</summary>
+        
+      
+    
+    
+    
+    <category term="C++" scheme="https://chiyutuci.xyz/categories/C/"/>
+    
+    
+    <category term="C++" scheme="https://chiyutuci.xyz/tags/C/"/>
+    
+    <category term="Program" scheme="https://chiyutuci.xyz/tags/Program/"/>
+    
+  </entry>
+  
+  <entry>
     <title>C++学习与补漏</title>
-    <link href="https://chiyutuci.xyz/2022/01/08/test/"/>
-    <id>https://chiyutuci.xyz/2022/01/08/test/</id>
+    <link href="https://chiyutuci.xyz/2022/01/08/CppLearn/"/>
+    <id>https://chiyutuci.xyz/2022/01/08/CppLearn/</id>
     <published>2022-01-08T06:21:06.000Z</published>
-    <updated>2022-01-08T12:14:10.999Z</updated>
+    <updated>2022-01-08T15:18:05.081Z</updated>
     
     
       
