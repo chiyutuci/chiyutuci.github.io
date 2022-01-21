@@ -1,29 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
-  <entry>
-    <title>C++学习与补漏</title>
-    <url>/2022/01/08/CppLearn/</url>
-    <content><![CDATA[<h1 id="C-基础"><a href="#C-基础" class="headerlink" title="C++ 基础"></a>C++ 基础</h1><p>浙江大学翁恺老师 《面向对象设计C++》  <a href="https://www.bilibili.com/video/BV1yQ4y1A7ts?p=1">https://www.bilibili.com/video/BV1yQ4y1A7ts?p=1</a></p>
-<h1 id="查缺补漏"><a href="#查缺补漏" class="headerlink" title="查缺补漏"></a>查缺补漏</h1>]]></content>
-      <categories>
-        <category>C++</category>
-      </categories>
-      <tags>
-        <tag>C++</tag>
-        <tag>Program</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Win32编程学习</title>
-    <url>/2022/01/08/Win32Learn/</url>
-    <content><![CDATA[<h1 id="Windows-c-cpp文件编译过程"><a href="#Windows-c-cpp文件编译过程" class="headerlink" title="Windows c/cpp文件编译过程"></a>Windows c/cpp文件编译过程</h1><p><img src="/2022/01/08/Win32Learn/compile.jpg"></p>
-]]></content>
-      <categories>
-        <category>C++</category>
-      </categories>
-      <tags>
-        <tag>C++</tag>
-        <tag>Program</tag>
-      </tags>
-  </entry>
 </search>
