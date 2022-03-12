@@ -52,43 +52,4 @@
         <tag>C++</tag>
       </tags>
   </entry>
-  <entry>
-    <title>Source/Runtime/Core/Containers/Array</title>
-    <url>/2022/01/21/Source-Runtime-Core-Containers-Array/</url>
-    <content><![CDATA[<h1 id="TIndexedContainerIterator"><a href="#TIndexedContainerIterator" class="headerlink" title="TIndexedContainerIterator"></a><code>TIndexedContainerIterator</code></h1><p>一个通用的迭代器，要求容器具有以下接口：</p>
-<ul>
-<li>返回容器中对象总数</li>
-<li>返回给定索引是否有效</li>
-<li>重载了下标运算符</li>
-<li>能够删除给定索引的元素</li>
-</ul>
-<h2 id="模板参数"><a href="#模板参数" class="headerlink" title="模板参数"></a>模板参数</h2><ul>
-<li><code>ContainerType</code> 容器的类型</li>
-<li><code>ElementType</code> 容器中元素的类型</li>
-<li><code>SizeType</code> 容器的SizeType</li>
-</ul>
-<h2 id="构造参数"><a href="#构造参数" class="headerlink" title="构造参数"></a>构造参数</h2><ul>
-<li>容器对象引用, 迭代器起始索引</li>
-</ul>
-<h2 id="运算符重载"><a href="#运算符重载" class="headerlink" title="运算符重载"></a>运算符重载</h2><ul>
-<li><code>++</code> <code>--</code> <code>+=</code> <code>+</code> <code>-=</code> <code>-</code></li>
-<li><code>*</code> <code>-&gt;</code></li>
-<li><code>==</code> <code>!=</code></li>
-</ul>
-<h2 id="成员函数"><a href="#成员函数" class="headerlink" title="成员函数"></a>成员函数</h2><ul>
-<li><code>GetIndex</code> 获取当前指向</li>
-<li><code>Reset</code> 将指向重置为0</li>
-<li><code>SetToEnd</code> 将指向设为尾部元素下一位置</li>
-<li><code>RemoveCurrent</code> 删除当前指向的元素</li>
-</ul>
-<h1 id="TCheckedPointerIterator"><a href="#TCheckedPointerIterator" class="headerlink" title="TCheckedPointerIterator"></a><code>TCheckedPointerIterator</code></h1><p>一个类似于指针的迭代器，用于检测范围for循环中容器大小是否改变。</p>
-<h1 id="TDereferencingIterator"><a href="#TDereferencingIterator" class="headerlink" title="TDereferencingIterator"></a><code>TDereferencingIterator</code></h1>]]></content>
-      <categories>
-        <category>UE4</category>
-      </categories>
-      <tags>
-        <tag>C++</tag>
-        <tag>UE4</tag>
-      </tags>
-  </entry>
 </search>
