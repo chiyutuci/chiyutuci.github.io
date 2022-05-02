@@ -6,7 +6,7 @@
   <link href="https://chiyutuci.xyz/atom.xml" rel="self"/>
   
   <link href="https://chiyutuci.xyz/"/>
-  <updated>2022-01-22T10:36:33.452Z</updated>
+  <updated>2022-05-02T19:10:26.275Z</updated>
   <id>https://chiyutuci.xyz/</id>
   
   <author>
@@ -17,29 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>C++运算符重载通用格式</title>
-    <link href="https://chiyutuci.xyz/2022/01/22/C-OperatorOverload/"/>
-    <id>https://chiyutuci.xyz/2022/01/22/C-OperatorOverload/</id>
-    <published>2022-01-22T08:44:19.000Z</published>
-    <updated>2022-01-22T10:36:33.452Z</updated>
+    <title>codeforces 1665C</title>
+    <link href="https://chiyutuci.xyz/2022/05/03/codeforces-1665C/"/>
+    <id>https://chiyutuci.xyz/2022/05/03/codeforces-1665C/</id>
+    <published>2022-05-02T18:55:58.000Z</published>
+    <updated>2022-05-02T19:10:26.275Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;摘自《C++ Primer》。&lt;/p&gt;
-&lt;p&gt;假设要在类&lt;code&gt;Test&lt;/code&gt;上重载运算符。&lt;/p&gt;
-&lt;h1 id=&quot;输入输出运算符&quot;&gt;&lt;a href=&quot;#输入输出运算符&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;p&gt;题目思路很简单，先统计所有的父亲节点，按他们的子节点数目排序，贪心地从多到少开始病毒注入。&lt;br&gt;每个群体都注入一次后，接下来&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;选取剩余最多的群体，注入一次&lt;/li&gt;
+&lt;li&gt;所有群体自动传染一次&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这最后一步有一两个坑，</summary>
         
       
     
     
     
-    <category term="C++" scheme="https://chiyutuci.xyz/categories/C/"/>
     
-    
-    <category term="C++" scheme="https://chiyutuci.xyz/tags/C/"/>
+    <category term="codeforces" scheme="https://chiyutuci.xyz/tags/codeforces/"/>
     
   </entry>
   
